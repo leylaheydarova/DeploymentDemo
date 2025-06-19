@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 863,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Deployment and DevOps\\Setup\\Setup.App\\Program.cs",
-              "RelativeDocumentMoniker": "Setup.App\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Deployment and DevOps\\Setup\\Setup.App\\Program.cs",
-              "RelativeToolTip": "Setup.App\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:50:04.1Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -51,6 +38,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Deployment and DevOps\\Setup\\Setup.App\\Program.cs",
+              "RelativeDocumentMoniker": "Setup.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Deployment and DevOps\\Setup\\Setup.App\\Program.cs",
+              "RelativeToolTip": "Setup.App\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:50:04.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Student\\Coursera\\Deployment and DevOps\\Setup\\Setup.App\\.env",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Setup.App\\.env",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-18T10:49:39.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T10:49:39.283Z"
             }
           ]
         },

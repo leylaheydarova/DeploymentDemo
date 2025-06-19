@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B3/JA4J0q/hTOma9bvOi2Shx+ldclMdl2W8U7UHfJQI=",
+  "Source": "AzureLogin.App",
+  "BasePath": "_content/AzureLogin.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
